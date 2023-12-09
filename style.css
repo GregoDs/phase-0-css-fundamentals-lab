@@ -3,3 +3,57 @@ body {
   height: 100%;
   margin: 0;
 }
+* {
+  text-align: center;
+
+}
+a {
+  text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+h1 {
+  text-align: center;
+
+}
+
+img {
+  text-align: center;
+}
+
+figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+#featured-property >p {
+  text-align: center;
+  width: 800px;
+  margin-top: 2em;
+  margin-bottom: -0.75em;
+  margin-left:auto;
+  margin-right:auto;
+  line-height: 1.2em;
+  
+}
+
+
+#details{
+  display: flex;
+  justify-content: space-around;
+  background-color: red; /* Add a background color for the footer */
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  padding: 20px;
+  line-height: 1.2em;
+  margin-top: 2em;
+}
+
+
+
+
+
+
